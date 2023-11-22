@@ -1,0 +1,10 @@
+# Movie booking app
+# 1. Select Theatre -> Screens
+# 2. Select a Show 
+# 3. Show -> Time + screen
+# 4. Seats -> Seat config
+# 5. Overlapping of Seats
+# 6. User Session
+# 7. Payment -> Block the Seats
+# 8. Payment Success -> Allot the seats
+# 9. Payment Failed -> Release the seats
